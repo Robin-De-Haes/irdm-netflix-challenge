@@ -6,7 +6,7 @@ Project for the course Information Retrieval & Data Mining at VUB
 
 | Name                      | Student number                | Email address                                                       |
 | :---                      | :---                          | :---                                                                |
-| Robin De Haes             | 0547560                       | [robin.de.haes@vub.be](mailto:robin.de.haes@vub.be)                 |
+| Robin De Haes             | 0547560                       | [robindehaes@msn.com](mailto:robindehaes@msn.com)                   |
 | Mathias Mallinus          | 0556721                       | [mathias.mallinus@vub.be](mailto:mathias.mallinus@vub.be)           |
 
 ## 1. Data
@@ -45,4 +45,4 @@ To run the application execute the following command:
 python netflix_challenge.py
 ```
 
-[0]: https://ai.vub.ac.be/irdm-project-2022/
+[0]: https://drive.google.com/file/d/111o1EUblsuycUcH3jMmSQLuxZjadilku/view?usp=sharing
