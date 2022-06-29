@@ -1,0 +1,8 @@
+**/netflix dataset
+**/variables
+
+# python env
+env/
+
+# pycharm
+.idea/
